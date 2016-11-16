@@ -13,6 +13,7 @@
     "express": "~4.13.1",
     "firebase": "^3.6.1",
     "firebase-admin": "^4.0.2",
+    "googleapis": "^14.2.0",
     "morgan": "~1.6.1",
     "serve-favicon": "~2.3.0"
   }
